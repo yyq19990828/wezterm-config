@@ -1,2 +1,9 @@
-# wezterm-config
-WezTerm 终端配置，包含字体、配色、外观、按键绑定等模块化 Lua 配置。
+# My WezTerm Config
+
+![screenshot](./screenshots/screenshot-1.png)
+
+### References/Links
+- <https://github.com/bluebird75/lua_get_os_name>
+- <https://github.com/rxi/lume>
+- <https://github.com/catppuccin/wezterm>
+- <https://github.com/wez/wezterm/discussions/628#discussioncomment-1874614>
